@@ -30,7 +30,7 @@ export function Header() {
           </button>
           <div className="w-[1px] h-4 bg-white/10" />
           <a 
-            href="https://drive.google.com/file/d/1dXTXasJ_s-kL3H9lhv0TL5dAnHxhceWP/view?usp=drive_link" 
+            href="https://drive.google.com/drive/folders/1bSTFkBSOF7HSYU9N4PU_gX-wzOFoId9i" 
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-sm font-bold uppercase tracking-widest text-accent hover:scale-105 transition-transform"
